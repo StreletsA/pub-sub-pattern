@@ -1,7 +1,7 @@
 # Simple Publisher-Subscriber pattern project
 ## Task of Saber Interactive
 
-### Welcome to Hell! (This is about my imagine code)
+### Welcome to the Hell! (This is about my imagine code)
 
 ### Formulating of the task
 
